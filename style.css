@@ -1,0 +1,230 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #dbdbdb;
+}
+.maincontainer{
+    margin: auto;
+    width: 1144px;
+    height: 1355px;
+    background-color: rgb(255, 253, 253);
+    box-shadow: 0px 0px 10px 2px rgb(114, 79, 79);
+    margin-top: 5px;
+}
+.rsmcontainer{
+    padding-top: 10px;
+    margin: 30px;
+    width: 95%;
+    height: 40vh;
+    box-shadow: 0px 0px 15px 1px rgb(114, 79, 79);
+    background-color: #ebe9e9;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.rsm{
+    margin-top: 35px;
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    box-shadow: 0px 0px 15px 1px rgb(31, 30, 30);
+      
+}
+.yunus{
+   
+    margin-top: 40px;
+    width: 750px;
+    height: 30vh;
+    border: 2px solid black;
+    background-color: rgb(19, 14, 66);
+    color: white;
+    border-radius: 10px;
+    margin-right: 15px;
+    box-shadow: 0px 0px 15px 1px rgb(114, 79, 79);
+}
+.şhn2{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    
+      
+}
+.şhn1{
+    margin-top: 20px;
+    
+}
+.şahin{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.lorem{
+    text-indent: 35px;
+}
+.edu{
+    width: 29%;
+    text-decoration: underline;
+    display: flex;
+    margin: 20px;
+}
+.çizgi1{
+    width: 95%;
+}
+.bilgicontainer{
+    margin: auto;
+    width: 95%;
+    height: 950px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 1px rgb(114, 79, 79);
+    display: flex;
+   background-color: rgb(19, 14, 66);
+} 
+
+.left{
+    margin: auto;
+    width: 25%;
+    height: 95%;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 10px;
+    
+
+}
+
+.right{
+    margin: auto;
+    width: 65%;
+    height: 95%;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 10px;
+
+}
+.h1{
+    font-weight: bold;
+    margin: 20px;
+}
+.sülo{
+    margin: 20px;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.eğitim{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: normal;
+}
+.çizgi2{
+    width: 48%;
+    
+}
+.work{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.tecrübe{
+    margin-top: 15px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.other{
+    margin-top: 25px;
+    margin-left: 20px;
+
+}
+
+.my{
+    width: 33%;
+}
+
+.book{
+    margin-top: 15px;
+    margin: 20px;
+    font-size: 20px;
+}
+.çzgi{
+    width: 97%;
+}
+.mailicon{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    margin-top: 50px;
+}
+.mail{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    font-size: 20px;
+}
+.telefon{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    margin-top: 50px;
+}
+.number{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    font-size: 20px;
+}
+.location{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    margin-top: 50px;
+}
+.denizli{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    font-size: 20px;
+}
+.git{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    margin-top: 50px;
+}
+.github{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    font-size: 20px;
+}
+.skılls{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.css{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    font-size: 25px;
+    background-color: #9c874d; 
+    border-radius: 10px;
+}
+.lan{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    font-size: 30px;
+    text-decoration: underline; 
+}
+.dil{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    font-size: 20px; 
+}
